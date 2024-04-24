@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋,
 
 <!--
 **adryeeel/adryeeel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Skills
+## Skills
 
 ![Skills badges](https://skillicons.dev/icons?i=c,bash,git,linux,html,vscode,css,github,scss,vite,js,nodejs,wordpress,markdown,mysql)
