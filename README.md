@@ -23,4 +23,6 @@ Keep learning, contribute to open source, and ship production-ready software com
 
 Email: <adryelrb@hotmail.com>
 
+### Skills
+
 ![Skills badges](https://skillicons.dev/icons?i=js,ts,c,cpp,bash,linux,react,tailwind,vite,nodejs,aws)
