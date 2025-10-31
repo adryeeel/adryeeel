@@ -25,6 +25,6 @@ Email: <adryelrb@hotmail.com>
 
 ### ⚡ Skills
 
-Everything I work with daily or am familiar with.
+Everything I work or am familiar with.
 
 ![Skills badges](https://skillicons.dev/icons?i=js,ts,c,cpp,bash,linux,react,tailwind,vite,nodejs,aws)
