@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ## Skills
 
-![Skills badges](https://skillicons.dev/icons?i=c,bash,git,linux,html,vscode,css,github,scss,vite,js,nodejs,wordpress,markdown,mysql)
+![Skills badges](https://skillicons.dev/icons?i=c,cpp,bash,linux,react,aws,tailwind,vite,js,nodejs,ts,postgres)
