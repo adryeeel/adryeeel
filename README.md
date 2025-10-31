@@ -15,7 +15,7 @@ I enjoy turning complex problems into clean, efficient code and intuitive user e
 * Mastering Data Structures and Algorithms
 * Exploring deep learning, LLMs and applied machine learning
 
-### 💡 Goals
+### 🎯 Goals
 
 Keep learning, contribute to open source, and ship production-ready software combining web and AI.
 
@@ -23,7 +23,7 @@ Keep learning, contribute to open source, and ship production-ready software com
 
 Email: <adryelrb@hotmail.com>
 
-### Skills
+### ⚡ Skills
 
 Everything I work with daily or am familiar with.
 
