@@ -13,7 +13,6 @@ I enjoy turning complex problems into clean, efficient code and intuitive user e
 
 * Building modern web applications for special clients
 * Mastering Data Structures and Algorithms
-* Exploring to implement and train LLMs from scratch
 * Exploring deep learning, LLMs and applied machine learning
 
 ### 💡 Goals
