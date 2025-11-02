@@ -5,19 +5,21 @@ I enjoy turning complex problems into clean, efficient code and intuitive user e
 
 ### 🧠 Focus
 
-* Front-end: React, Tailwind, Vite
-* Back-end: Node.js, AWS, Linux
-* Systems: C/C++, Bash, TypeScript
+- Front-end: React, Tailwind, Vite
+- Back-end: Node.js, AWS, Linux
+- Systems: C/C++, Bash, TypeScript
 
 ### 🚀 What I’m working on
 
-* Building modern web applications for special clients
-* Mastering Data Structures and Algorithms
-* Exploring deep learning, LLMs and applied machine learning
+- Building modern web applications for special clients
+- Mastering Data Structures and Algorithms
+- Exploring deep learning, LLMs and applied machine learning
 
 ### 🎯 Goals
 
-Keep learning, contribute to open source, and ship production-ready software combining web and AI.
+- Keep learning
+- Contribute to open source
+- Ship production-ready software combining web and AI.
 
 ### 📫 Reach me
 
